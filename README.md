@@ -1,2 +1,2 @@
-# grc102_Zainab
+# grc_Zainab
 GRC Assignment
